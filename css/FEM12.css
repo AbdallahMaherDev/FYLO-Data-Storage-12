@@ -82,7 +82,7 @@ body {
     }
     .container {
         width: 920px;
-        margin-top: 66px;
+        margin-top: 60px;
     }
 }
 @media (min-width: 1450px ) {
