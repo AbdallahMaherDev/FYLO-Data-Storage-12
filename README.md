@@ -2,21 +2,21 @@
 
 🌟 Introduction
 
-Hello! I'm Abdallah Maher, and this is a solution to the "Results Summary Component" challenge from Frontend Mentor. This project is a simple yet elegant component that displays a user's test results in a visually appealing way.
+Hello! I'm Abdallah Maher, and this is a solution to the "Fylo data storage component" challenge from Frontend Mentor. This project is a clean and modern storage component that visually represents the user's available and used storage. It features a progress bar and a responsive layout.
+
+
 
 🚀 Features
 
-Responsive and accessible design
+✔️ Fully Responsive Design – Works seamlessly on all devices.
+✔️ Modern & Clean UI – Uses CSS Flexbox & Grid for a structured layout.
+✔️ Animated Storage Bar – A visually appealing progress bar.
+✔️ Accessible & Well-structured Code – Ensures readability and maintainability.
 
-Well-structured HTML & CSS
-
-Dynamic score representation
 
 🛠 Technologies Used
 
-HTML
-
-CSS 
+HTML / CSS 
 
 
 Open index.html in your browser to view the component.
